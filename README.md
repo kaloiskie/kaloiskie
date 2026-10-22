@@ -13,6 +13,28 @@
 **Infrastructure**<br>![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&amp;logo=docker&amp;logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-%23009639?style=for-the-badge&amp;logo=nginx&amp;logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&amp;logo=cloudflare&amp;logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&amp;logo=git&amp;logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white) ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&amp;logo=awslambda&amp;logoColor=white) ![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&amp;logo=amazonec2&amp;logoColor=white)
 
 
+# 🏗 Systems I Build
+
+A production platform for a licensed lottery operator: three tunnel-backed origins behind a Cloudflare Worker, fifteen loopback services per host, one PostgreSQL cluster, and no public port except Nginx and the tunnel.
+
+- **Edge routing** — least-busy healthy origin selection, health-gated failover, automatic recovery, and sticky sessions for Socket.IO so a connection never jumps hosts mid-stream.
+- **API boundary** — explicit route-prefix allowlist (unlisted prefixes never reach an upstream), one retry for idempotent reads, and stateful prefixes pinned to the primary origin.
+- **Two-lane queue** — separate write and read lanes with atomic claims, dedupe keys, cache coordinates, capacity that adapts to database pool load, and enqueue signals instead of hot polling; read invalidation cancels queued work only, never in-flight jobs.
+- **Read/write split** — primary for writes, replica pools for reads with an explicit fallback path, PgBouncer in front of both.
+- **Real-time** — Socket.IO state updates designed for reconnection, so dashboards recover after network loss without forcing operators to restart their session.
+- **Device provisioning** — QR-based enrollment that links field terminals to approved accounts instead of manual setup.
+- **Storage** — path-scoped file service, traversal rejected outside the storage root, protected namespaces, and streaming multipart handling that keeps large uploads from deadlocking.
+- **AI tooling** — MCP server and LSP bridge behind a private-network guard, exposing database, memory, audit, Telegram, and email tools to agents.
+
+# 🧠 How I Work
+
+- **Strict TypeScript end to end**, with contracts shared between frontend, backend, and services so a type change breaks the build instead of production.
+- **Schema-first validation at every trust boundary** — request bodies, query params, and service-to-service payloads.
+- **Feature-gated writes** — uploads, deletes, queue lanes, and database writes each sit behind an explicit env flag; nothing is enabled by accident.
+- **Every flow handled, not just the happy path** — empty, error, retry, disabled, stale, and concurrent states are part of the definition of done.
+- **Test the pure parts** — domain logic kept framework-free and covered by unit tests; typecheck and lint gate the release.
+- **Build once, ship artifacts** — no production builds on the serving host, and every deploy ends with a health check plus an endpoint check.
+
 # 📫 Connect:
 [![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=38bdf8)](https://jc-loguiber.site/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/jhon-carlo-loguiber-28070136b/)
