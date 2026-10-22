@@ -1,64 +1,24 @@
-<div align="center">
+# 💫 About Me:
+🔭 I'm currently leading IT operations and building production web systems at **Northman Gaming Corporation**.<br>👥 I supervise a two-person IT team across system administration, incident response, and internal tooling.<br>🧱 I work end to end — schema, API, frontend, deployment — on Ubuntu servers I also operate.<br>🌱 I'm currently going deeper into distributed systems, queue architectures, and edge infrastructure.<br>💬 Ask me about React, TypeScript, Node.js, PostgreSQL, or self-hosted deployments.<br>📄 4+ years shipping and operating production software for a licensed lottery operator in the Philippines.
 
-<p>
-  <a href="https://jc-loguiber.site/"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=38bdf8" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/jhon-carlo-loguiber-28070136b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:jcarlo.loguiber@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
-  <a href="https://jc-loguiber.site/cv.pdf"><img src="https://img.shields.io/badge/CV-0f172a?style=for-the-badge&amp;logo=adobeacrobatreader&amp;logoColor=38bdf8" alt="CV" /></a>
-  <a href="https://github.com/kaloiskie?tab=followers"><img src="https://img.shields.io/github/followers/kaloiskie?style=for-the-badge&amp;color=0f172a&amp;labelColor=1e293b&amp;logo=github" alt="Followers" /></a>
-</p>
+# 💻 Tech Stack:
+**Languages**<br>![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&amp;logo=typescript&amp;logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white)
 
-</div>
+**Frontend**<br>![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&amp;logo=next.js&amp;logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&amp;logo=vite&amp;logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&amp;logo=shadcnui&amp;logoColor=white)
 
-<table>
-<tr>
-<td width="58%" valign="top">
+**Backend**<br>![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=white) ![Express](https://img.shields.io/badge/express-%23000000.svg?style=for-the-badge&amp;logo=express&amp;logoColor=white) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&amp;logo=fastify&amp;logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&amp;logo=socket.io&amp;logoColor=white)
 
-<h3>About</h3>
+**Data**<br>![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&amp;logo=redis&amp;logoColor=white)
 
-Full-stack developer and IT operations lead with 4+ years building and running production systems for a licensed lottery operator in the Philippines. I own features end to end — schema, API, frontend, deployment — on Ubuntu servers I also operate.
+**Infrastructure**<br>![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&amp;logo=docker&amp;logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&amp;logo=nginx&amp;logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&amp;logo=Cloudflare&amp;logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white)
 
-Currently **IT Supervisor at Northman Gaming Corporation**, leading a two-person team across system administration, incident response, and internal tooling.
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kaloiskie&amp;theme=tokyonight&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=kaloiskie&amp;theme=tokyonight&amp;hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaloiskie&amp;theme=tokyonight&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact)
 
-**Focus:** real-time dashboards &middot; async queue architectures with bounded concurrency &middot; Telegram bot ecosystems &middot; Android MDM
-
-**Open to:** remote backend or full-stack roles where reliability and infrastructure matter.
-
-</td>
-<td width="42%" valign="top">
-
-<h3 align="center">Stack</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,nodejs,express,fastify,python,postgres,mysql,redis,docker,nginx,linux,cloudflare,git,githubactions,figma&amp;theme=dark&amp;perline=5" alt="TypeScript, JavaScript, React, Next.js, Vite, Node.js, Express, Fastify, Python, PostgreSQL, MySQL, Redis, Docker, Nginx, Linux, Cloudflare, Git, GitHub Actions, Figma" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&amp;logo=socketdotio&amp;logoColor=white" alt="Socket.IO" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&amp;logo=android&amp;logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&amp;logo=shadcnui&amp;logoColor=white" alt="shadcn/ui" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&amp;logo=ollama&amp;logoColor=white" alt="Ollama" />
-  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&amp;logo=raspberrypi&amp;logoColor=white" alt="Raspberry Pi" />
-</p>
-
-</td>
-</tr>
-</table>
-
-## Experience
-
-| Role | Company | Period |
-| --- | --- | --- |
-| IT Supervisor | Northman Gaming Corporation | Mar 2026 – Present |
-| IT Staff | Northman Gaming Corporation | Jun 2025 – Mar 2026 |
-| IT Intern | City Hall of Tagum City | Oct 2023 – Jan 2024 |
-
-## GitHub
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=kaloiskie&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0f172a&amp;title_color=38bdf8&amp;icon_color=38bdf8&amp;text_color=cbd5e1&amp;include_all_commits=true&amp;count_private=true" alt="GitHub stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaloiskie&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0f172a&amp;title_color=38bdf8&amp;text_color=cbd5e1&amp;langs_count=6" alt="Top languages" />
-<img height="160" src="https://streak-stats.demolab.com/?user=kaloiskie&amp;theme=tokyonight&amp;hide_border=true&amp;background=0f172a&amp;ring=38bdf8&amp;fire=38bdf8&amp;currStreakLabel=38bdf8" alt="Streak" />
-
-</div>
+# 📫 Connect:
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=38bdf8)](https://jc-loguiber.site/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/jhon-carlo-loguiber-28070136b/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:jcarlo.loguiber@gmail.com)
+[![CV](https://img.shields.io/badge/CV-0f172a?style=for-the-badge&amp;logo=adobeacrobatreader&amp;logoColor=38bdf8)](https://jc-loguiber.site/cv.pdf)
