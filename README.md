@@ -1,10 +1,5 @@
 <div align="center">
 
-<h1>Jhon Carlo L. Loguiber</h1>
-
-<p><b>Full-Stack Developer &middot; IT Operations</b><br />
-Tagum City, Davao del Norte, PH &middot; UTC+8</p>
-
 <p>
   <a href="https://jc-loguiber.site/"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=38bdf8" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/jhon-carlo-loguiber-28070136b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
