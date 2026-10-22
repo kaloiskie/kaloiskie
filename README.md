@@ -1,18 +1,61 @@
-# 💫 About Me:
-🔭 I'm currently building and maintaining multi-server production systems at **Northman Gaming Corporation**.<br>👯 I'm looking to collaborate on TypeScript / Node.js full-stack projects.<br>🌱 I'm currently learning distributed systems and edge infrastructure.<br>💬 Ask me about React, Next.js, Fastify, PostgreSQL, or self-hosted deployments.<br>⚡ 4 years of shipping and operating production web systems.
+<div align="center">
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=D04A37) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0ea5e9&height=200&section=header&text=Jhon%20Carlo%20Loguiber&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%" alt="Jhon Carlo Loguiber" />
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=kaloiskie&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=kaloiskie&theme=solarized-dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=kaloiskie&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+4%2B+years;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL;Building+and+operating+multi-server+production+systems" alt="Typing SVG" />
+</a>
 
-### 📫 Reach me
-[![Website](https://img.shields.io/badge/jc--loguiber.site-%23000000.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jc-loguiber.site/)
+<p>
+  <a href="https://jc-loguiber.site/"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" alt="Portfolio" /></a>
+  <a href="https://github.com/kaloiskie?tab=followers"><img src="https://img.shields.io/github/followers/kaloiskie?style=for-the-badge&color=0f172a&labelColor=1e293b&logo=github" alt="Followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=kaloiskie&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
----
-[![](https://komarev.com/ghpvc/?username=kaloiskie&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
-<!-- Style inspired by GPRM ( https://gprm.itsvg.in ) -->
+```ts
+const jhon = {
+  role:     "Full-Stack Developer",
+  company:  "Northman Gaming Corporation",
+  location: "Tagum City, Davao Region, PH",
+  focus:    ["TypeScript", "distributed systems", "edge infrastructure"],
+  currently: "Leading IT operations & building production web platforms",
+};
+```
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,fastify,postgres,redis,supabase,docker,nginx,cloudflare,linux,git,githubactions,figma&theme=dark&perline=9" alt="Tech stack" />
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO" />
+<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+
+</div>
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kaloiskie&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaloiskie&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=cbd5e1&langs_count=8" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com/?user=kaloiskie&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaloiskie&bg_color=0f172a&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity graph" />
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e293b,100:0f172a&height=120&section=footer" width="100%" alt="" />
+
+</div>
